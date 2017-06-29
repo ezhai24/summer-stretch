@@ -42,7 +42,7 @@ This is a word document that serves as a template for the reports. Progress repo
 
 ### Replacements
 These are strings that can be used in the template document. The program will replace them with the values defined in `roster.txt` and `improvements.txt`.
-* <firstname>
+* &lt;firstname>
 * <lastname>
 * <spn>: subject pronoun (he, she, they)
 * <opn>: object pronoun (him, her, them)
