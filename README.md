@@ -43,17 +43,17 @@ This is a word document that serves as a template for the reports. Progress repo
 ### Replacements
 These are strings that can be used in the template document. The program will replace them with the values defined in `roster.txt` and `improvements.txt`.
 * &lt;firstname>
-* <lastname>
-* <spn>: subject pronoun (he, she, they)
-* <opn>: object pronoun (him, her, them)
-* <ppn>: possessive pronoun (his, hers, their)
+* &lt;lastname>
+* &lt;spn>: subject pronoun (he, she, they)
+* &lt;opn>: object pronoun (him, her, them)
+* &lt;ppn>: possessive pronoun (his, hers, their)
 
 Only for progress reports:
-* <improvement>
-* <testscore>
+* &lt;improvement>
+* &lt;testscore>
 
 Only for final transcripts:
-* <percentgrade>
-* <lettergrade>
-* <hscredit>
-* <comment>
+* &lt;percentgrade>
+* &lt;lettergrade>
+* &lt;hscredit>
+* &lt;comment>
