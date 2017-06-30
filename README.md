@@ -4,6 +4,10 @@ Python scripts that automatically generate progress reports for a roster of stud
 ### Getting Started
 * Install python: https://www.python.org/downloads/release/python-2713/
 * Add python as a path in environment variables
+* Install the python-docx packages
+```
+pip install python-docx
+```
 * Clone the repo https://github.com/ezhai24/summer-stretch.git
 * For progress reports: create custom `roster.txt`, `improvements.txt`, and `template.docx` files and place them in a common directory
 * For final transcripts: create custom `roster.txt`, `comments.txt`, and `template.docx` files and place them in a common directory
