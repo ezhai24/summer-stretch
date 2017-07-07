@@ -4,6 +4,11 @@ from shutil import copyfile
 from docx import Document
 
 if __name__ == '__main__':
+    # change the encoding
+    # TODO: find new workaround, dangerous
+    reload(sys)  
+    sys.setdefaultencoding('utf8')
+
     # set path
     path = sys.argv[1]
     os.chdir(path)
