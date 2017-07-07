@@ -2,7 +2,7 @@
 Python scripts that automatically generate progress reports for a roster of students using a base template and a file of options.
 
 ### Getting Started
-* Install python: https://www.python.org/downloads/
+* Install Python v3: https://www.python.org/downloads/
 * Add C:\Python and C:\Python\Scripts as a paths in environment variables
 * Install the python-docx package
 ```
