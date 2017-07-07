@@ -3,7 +3,7 @@ Python scripts that automatically generate progress reports for a roster of stud
 
 ### Getting Started
 * Install python: https://www.python.org/downloads/release/python-2713/
-* Add python as a path in environment variables
+* Add C:\Python27 and C:\Python27\Scripts as a paths in environment variables
 * Install the python-docx package
 ```
 pip install python-docx
